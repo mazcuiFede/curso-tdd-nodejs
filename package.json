@@ -1,0 +1,29 @@
+{
+  "name": "curso-tdd-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "asd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazcuiFede/curso-tdd-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mazcuiFede/curso-tdd-nodejs/issues"
+  },
+  "homepage": "https://github.com/mazcuiFede/curso-tdd-nodejs#readme",
+  "devDependencies": {
+    "jest": "^28.1.1",
+    "supertest": "^6.2.3"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1"
+  }
+}
